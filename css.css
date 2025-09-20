@@ -1,0 +1,13 @@
+.anh{
+    display: flex;
+    gap: 10px;  
+}
+.anh img{ 
+    width: 150px;
+}
+.chinh_anh{
+    width: 50%;
+}
+p{
+    font-size: 30px;
+}
